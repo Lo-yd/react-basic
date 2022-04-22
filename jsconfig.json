@@ -1,0 +1,11 @@
+{
+  //路径提示配置
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    }
+  }
+}
